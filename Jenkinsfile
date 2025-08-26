@@ -1,4 +1,4 @@
 @Library("com.i27academy.slb") _
-k8sPipeline(
+nodePipeline(
     appName: 'clothing'
 )
